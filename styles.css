@@ -1,0 +1,17 @@
+body{
+  background-color: #bb8082;
+}
+#heading{
+  text-align: center;
+  padding: 5px;
+
+}
+
+
+.removeBtn{
+    text-align: right;
+}
+
+.card{
+  background-color: #f5c0c0;
+}
